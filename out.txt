@@ -1,0 +1,237 @@
+    "whenChanged": [
+        "20230805221733.0Z",
+    ],
+    "objectClass": [
+        "top",
+        "person",
+        "organizationalPerson",
+        "user",
+    ],
+    "l": [
+        "Makassar",
+    ],
+    "objectCategory": [
+        "CN=Person,CN=Schema,CN=Configuration,DC=corp,DC=pln,DC=co,DC=id",
+    ],
+    "msExchPoliciesIncluded": [
+        "c9bf8582-b558-4d1c-a8aa-c06b6101da93",
+        "{26491cfc-9e50-4857-861b-0cb8df22b5d7}",
+    ],
+    "logonCount": [
+        "6837",
+    ],
+    "badPasswordTime": [
+        "133355872136064652",
+    ],
+    "msExchVersion": [
+        "88218628259840",
+    ],
+    "title": [
+        "MAN PMIS DAN ADM TEKNIK",
+    ],
+    "msExchRBACPolicyLink": [
+        "CN=Default Role Assignment Policy,CN=Policies,CN=RBAC,CN=PLN,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=corp,DC=pln,DC=co,DC=id",
+    ],
+    "msExchMailboxAuditLastAdminAccess": [
+        "20161110064640.0Z",
+    ],
+    "company": [
+        "UIP SULAWESI",
+    ],
+    "textEncodedORAddress": [
+        "X400:C=US;A= ;P=PLN;O=Exchange;S=darwis;",
+    ],
+    "msExchUserAccountControl": [
+        "0",
+    ],
+    "displayName": [
+        "DARWIS",
+    ],
+    "msExchUMDtmfMap": [
+        "reversedPhone:353296552580",
+        "reversedPhone:9152541140",
+        "emailAddress:3279472",
+        "lastNameFirstName:327947",
+        "firstNameLastName:327947",
+    ],
+    "lastLogonTimestamp": [
+        "133357474535475146",
+    ],
+    "mDBUseDefaults": [
+        "TRUE",
+    ],
+    "description": [
+        "85101086Z",
+    ],
+    "streetAddress": [
+        "Jl. Letjend Hertasning, Panakkukang",
+    ],
+    "msExchALObjectVersion": [
+        "764",
+    ],
+    "lastLogoff": [
+        "0",
+    ],
+    "givenName": [
+        "Darwis",
+    ],
+    "protocolSettings": [
+        "POP3§0§§§§§§§§§§§",
+    ],
+    "msExchAuditDelegate": [
+        "1533",
+    ],
+    "sAMAccountType": [
+        "805306368",
+    ],
+    "personalTitle": [
+        "Bpk",
+    ],
+    "msExchMobileMailboxFlags": [
+        "1",
+    ],
+    "userPrincipalName": [
+        "darwis2@pusat.corp.pln.co.id",
+    ],
+    "badPwdCount": [
+        "0",
+    ],
+    "homeMDB": [
+        "CN=STANDARD-008,CN=Databases,CN=Exchange Administrative Group (FYDIBOHF23SPDLT),CN=Administrative Groups,CN=PLN,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=corp,DC=pln,DC=co,DC=id",
+    ],
+    "cn": [
+        "Darwis",
+    ],
+    "uSNChanged": [
+        "3187723658",
+    ],
+    "msExchHomeServerName": [
+        "/o=PLN/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Configuration/cn=Servers/cn=MAILBOX-01",
+    ],
+    "pwdLastSet": [
+        "133340582385224701",
+    ],
+    "employeeType": [
+        "Manajemen Dasar",
+    ],
+    "msExchRecipientDisplayType": [
+        "1073741824",
+    ],
+    "userAccountControl": [
+        "512",
+    ],
+    "telephoneNumber": [
+        "0411 452519 ext 337",
+    ],
+    "co": [
+        "Indonesia",
+    ],
+    "primaryGroupID": [
+        "513",
+    ],
+    "instanceType": [
+        "4",
+    ],
+    "codePage": [
+        "0",
+    ],
+    "msExchUserCulture": [
+        "en-US",
+    ],
+    "physicalDeliveryOfficeName": [
+        "UIP SULAWESI",
+    ],
+    "mail": [
+        "darwis2@pln.co.id",
+    ],
+    "employeeNumber": [
+        "85102404",
+    ],
+    "memberOf": [
+        "CN=Pegawai UIP Sulawesi,OU=UIP SULAWESI,OU=SUBOP SULSELRABAR 1,OU=OPERASIONAL SULSELRABAR,OU=REGIONAL SULMAPA,DC=pusat,DC=corp,DC=pln,DC=co,DC=id",
+        "CN=365_Batch3,OU=GROUP,OU=Accounts,DC=pusat,DC=corp,DC=pln,DC=co,DC=id",
+        "CN=M365-LisensiE1,OU=Microsoft 365 Support,OU=GROUP,OU=Accounts,DC=pusat,DC=corp,DC=pln,DC=co,DC=id",
+        "CN=Group Muslim Pegawai PLN,OU=GROUP,OU=Accounts,DC=pusat,DC=corp,DC=pln,DC=co,DC=id",
+        "CN=Group Pegawai PLN,OU=GROUP,OU=Accounts,DC=pusat,DC=corp,DC=pln,DC=co,DC=id",
+        "CN=UIPXIII-Group_Semua_Pegawai,OU=ANONIM,OU=UIP SULAWESI,OU=SUBOP SULSELRABAR 1,OU=OPERASIONAL SULSELRABAR,OU=REGIONAL SULMAPA,DC=pusat,DC=corp,DC=pln,DC=co,DC=id",
+        "CN=UIPXIII-Group_Muslim,OU=ANONIM,OU=UIP SULAWESI,OU=SUBOP SULSELRABAR 1,OU=OPERASIONAL SULSELRABAR,OU=REGIONAL SULMAPA,DC=pusat,DC=corp,DC=pln,DC=co,DC=id",
+        "CN=UIPXIII-Group_BAT,OU=ANONIM,OU=UIP SULAWESI,OU=SUBOP SULSELRABAR 1,OU=OPERASIONAL SULSELRABAR,OU=REGIONAL SULMAPA,DC=pusat,DC=corp,DC=pln,DC=co,DC=id",
+    ],
+    "uSNCreated": [
+        "62946",
+    ],
+    "legacyExchangeDN": [
+        "/o=PLN/ou=First Administrative Group/cn=Recipients/cn=darwis",
+    ],
+    "accountExpires": [
+        "9223372036854775807",
+    ],
+    "showInAddressBook": [
+        "CN=Default Global Address List,CN=All Global Address Lists,CN=Address
+Lists Container,CN=PLN,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=corp,DC=pln,DC=co,DC=id",
+        "CN=All Users,CN=All Address Lists,CN=Address Lists Container,CN=PLN,CN=Microsoft Exchange,CN=Services,CN=Configuration,DC=corp,DC=pln,DC=co,DC=id",
+    ],
+    "st": [
+        "Sulawesi Selatan",
+    ],
+    "msExchAuditOwner": [
+        "1085",
+    ],
+    "msExchTextMessagingState": [
+        "302120705",
+        "16842751",
+    ],
+    "dSCorePropagationData": [
+        "20230210121503.0Z",
+        "20220929041453.0Z",
+        "20220919031423.0Z",
+        "20210712080231.0Z",
+        "16010714223649.0Z",
+    ],
+    "department": [
+        "SBI PMIS DAN ADM TEKNIK",
+    ],
+    "whenCreated": [
+        "20100607074040.0Z",
+    ],
+    "lastLogon": [
+        "133359359109923426",
+    ],
+    "msExchRecipientTypeDetails": [
+        "1",
+    ],
+    "c": [
+        "ID",
+    ],
+    "distinguishedName": [
+        "CN=Darwis,OU=UIP SULAWESI,OU=SUBOP SULSELRABAR 1,OU=OPERASIONAL SULSELRABAR,OU=REGIONAL SULMAPA,DC=pusat,DC=corp,DC=pln,DC=co,DC=id",
+    ],
+    "countryCode": [
+        "360",
+    ],
+    "proxyAddresses": [
+        "X400:C=US;A= ;P=PLN;O=Exchange;S=darwis;",
+        "x400:C=US;A= ;P=PLN;O=Exchange;S=darwis2;",
+        "SMTP:darwis2@pln.co.id",
+    ],
+    "msExchMailboxAuditEnable": [
+        "TRUE",
+    ],
+    "mobile": [
+        "08116113411",
+    ],
+    "msExchWhenMailboxCreated": [
+        "20130219041028.0Z",
+    ],
+    "name": [
+        "Darwis",
+    ],
+    "sAMAccountName": [
+        "darwis2",
+    ],
+    "mailNickname": [
+        "darwis",
+    ],
+    "businessCategory": [
+        "PLN Pikitring Sulmapa",
+    ],
