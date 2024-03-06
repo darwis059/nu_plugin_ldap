@@ -1,7 +1,7 @@
 use keyring::Entry;
 use ldap3::{LdapConn, Scope, SearchEntry};
 use nu_plugin::{serve_plugin, EvaluatedCall, LabeledError, MsgPackSerializer, Plugin};
-use nu_protocol::{record, Category, PluginSignature, Record, Spanned, SyntaxShape, Value};
+use nu_protocol::{record, Category, PluginSignature, Spanned, SyntaxShape, Value};
 use std::vec;
 struct MyPlugin;
 
